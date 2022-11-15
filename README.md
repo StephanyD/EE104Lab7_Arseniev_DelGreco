@@ -1,7 +1,7 @@
 # EE104 Lab7
 ## Nasco Arseniev and Stephany Del Greco
 
-# Video Demo: https://youtu.be/A__37ZIEdVk
+## Video Demo: https://youtu.be/A__37ZIEdVk
 
 There are two portions to this lab:
 
